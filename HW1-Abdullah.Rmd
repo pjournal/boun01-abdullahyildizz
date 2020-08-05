@@ -1,0 +1,77 @@
+---
+title: "Homework1"
+author: "Abdullah Yıldız" 
+date: "05 08 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Who is Abdullah ?  ##
+
+
+I'm senior undergraduate student in Bogazici University. In this course, my main objective is to learn essentials of data analysis. By taking this course , I believe that I would learn some packages and get some skills about data analysis. I'm looking forward to do projects and learn something more day by day. In future, I may apply for Data Science Master and this course will be my milestone. You can find my LinkedIn profile below.
+
+[LinkedIn]( https://www.linkedin.com/in/abdullah-y%C4%B1ld%C4%B1z7/ )
+
+##user2020,Forecasting multiple seasonality with state switching##
+
+[YouTube](https://www.youtube.com/watch?v=6YlboftSalY)
+
+In this video, Mitchell o'Hara Wild tells about forecasting time-series which contain multiple seasonal patterns requires flexible modelling approaches, and the need for continuously updating models emphasises the importance of fast model estimation.By using electrical demand data, he creates some plots which clarifies multiple seasonality. After that, by considering these seasonalities , he starts to make future forecast.
+
+
+
+##Data-analysis-of-the-french-football-league-players##
+
+I'm so passionate about football. I follow some data scientist in Twitter. In this link , **http://nc233.com/2016/10/data-analysis-of-the-french-football-league-players-with-r-and-factominer/**,
+author analized some players like Valbuena in terms of their defensive and offensive skills. One of the aim of this project is to decide optimal position of player. 
+
+
+
+! [valbuena](/Users/ABDULLAH/Desktop/valbuena.png)
+
+
+
+## Customer Segmentation Statistical Analysis using R ##
+
+Customer Segementation is used in marketing to better understand customers of a business and target them accordingly. Segmentation of customer can take many forms, based on demographic, geographic, interest, behavior or a combination of these characteristics. 
+
+[Customer Segmentation](https://www.rpubs.com/lnoguera/Customer-Segmentation)
+
+3 clusters have been constrcuted based on the following features:
+
+Recency (Days of inactiviy)
+
+Frequency (Number of purchases)
+
+Monetary Value (Revenue generated).
+
+Defining Users Value to the Business :
+
+-High Value Customers.
+
+-Medium Value Customers.
+
+-Low Value Customers.
+
+
+##NBA DATA ANALYSIS##
+
+[Example](https://rpubs.com/aashish/NBA)
+
+We can analyze Basketball in many sides with R. For example, player's point prediction and best location for more accuracy can be found. In this project, it can be seen how much game it should be won for going play-offs and predicting points with linear regression. 
+
+
+
+
+
+
+
+
+
+
