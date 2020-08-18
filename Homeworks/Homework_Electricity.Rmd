@@ -8,9 +8,9 @@ runtime: shiny
 knitr::opts_chunk$set(echo = TRUE)
 ```
  
- ##Introduction
+ ## Introduction
 This report is created according to the data from 1 July to 31 July  [Energy Exchange Istanbul(EXIST) page](https://rapor.epias.com.tr/rapor/xhtml/ptfSmfListeleme.xhtml). 
-
+In order to run this file, you should download editted csv file which can be found in my github.
 ```{r , echo=TRUE}
 
 
