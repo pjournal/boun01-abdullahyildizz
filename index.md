@@ -2,3 +2,8 @@
 
 ## Week 1
 [Here](Homeworks/HW1-Abdullah.html) is my RMarkdown Homework
+
+## Week 2
+[Here](Homeworks/Homework_Electricity.Rmd) is my second Homework.
+
+
