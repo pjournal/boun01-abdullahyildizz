@@ -4,5 +4,5 @@
 [Here](Homeworks/HW1-Abdullah.html) is my RMarkdown Homework
 
 ## Week 2
-[Here](Homework_Electricity.nb.html) is my second HW.
+[Here](Homeworks/hw2.html) is my second HW.
 
