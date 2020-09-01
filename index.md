@@ -8,4 +8,4 @@
 
 ## Group Project
 
-[Here] (https://github.com/pjournal/boun01g-hisrustu) you can find some group projects.
+[Here](https://github.com/pjournal/boun01g-hisrustu) you can find some group projects.
