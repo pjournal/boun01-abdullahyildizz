@@ -1,10 +1,12 @@
 # IE 48A Progress Journal
 
-## Week 1
+## HW1 1
 [Here](Homeworks/HW1-Abdullah.html) is my RMarkdown Homework
 
-## Week 2
+## HW2
 [Here](Homeworks/hw2.html) is my second HW.
+
+## HW3
 
 ## Group Project
 
