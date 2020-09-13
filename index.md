@@ -7,6 +7,8 @@
 [Here](Homeworks/hw2.html) is my second HW.
 
 ## HW3
+[Here](Homeworks/diamonds_hw3.html) is my third HW.
+
 
 ## Group Project
 
